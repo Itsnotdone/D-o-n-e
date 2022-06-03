@@ -1,7 +1,11 @@
 ### Hi I'am Done! 👋
 
 My name is **Marcin** and I'am from **Poland**.
+Have you seen my projects yet? 
+If not then be sure to look at @ReveeSoftware
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kveio)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kveio/Kveio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
