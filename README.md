@@ -1,8 +1,10 @@
 ### Hi I'am Done! 👋
 
 My name is **Marcin** and I'am from **Poland**.
-Have you seen my projects yet? 
-If not then be sure to look at @ReveeSoftware
+
+*Have you seen my projects yet?* 
+
+If not then be sure to look at Revee Software
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kveio)](https://github.com/anuraghazra/github-readme-stats)
