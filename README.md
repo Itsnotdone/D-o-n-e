@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'am Done! 👋
+
+My name is **Marcin** and I'am from **Poland**.
+
 
 <!--
 **Kveio/Kveio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
