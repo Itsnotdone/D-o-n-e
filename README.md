@@ -1,25 +1,19 @@
-### Hi I'am Done! 👋
 
-My name is **Marcin** and I'am from **Poland**.
+<h1 align="center">Hi 👋, I'm Done!</h1>
+<h3 align="center">My name is Marcin and I from Poland</h3>
 
-*Have you seen my projects yet?* 
+<p align="left"> <a href="https://twitter.com/ReveeDev" target="blank"><img src="https://img.shields.io/twitter/follow/ReveeDev?logo=twitter&style=for-the-badge" alt="ReveeDev" /></a> </p>
 
-If not then be sure to look at Revee Software
+- 🔭 I’m currently working on **Revee Engine** and **Take It Over** game
 
+- 🌱 I’m currently learning **Rust Macros** and **Godot GDScript**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ReveeDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="revee software" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kveio)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Kveio/Kveio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
