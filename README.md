@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Done!</h1>
-<h3 align="center">My name is Marcin and I from Poland</h3>
+<h3 align="center">My name is Marcin and I'm from Poland</h3>
 
 <p align="left"> <a href="https://twitter.com/ReveeDev" target="blank"><img src="https://img.shields.io/twitter/follow/ReveeDev?logo=twitter&style=for-the-badge" alt="ReveeDev" /></a> </p>
 
